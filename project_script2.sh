@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Script 2: FOSS Package Inspector
-# Author:HEMANT RAUT
+# Author:Hemant
 
 PACKAGE="vlc"
 
